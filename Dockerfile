@@ -1,3 +1,3 @@
 FROM  tomcat
 MAINTAINER me
-RUN touch /usr/local/tomcat/helloFromBase.v1
+RUN touch /usr/local/tomcat/helloFromBase.v2
